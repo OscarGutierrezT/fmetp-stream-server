@@ -1,0 +1,21 @@
+{
+  "name": "FMETP Server",
+  "version": "1.2.0",
+  "description": "Este es un demo de servidor para el streaming de Unity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/OscarGutierrezT/fmetp-stream-server.git"
+  },
+  "author": "Oscar Gutierrez",
+  "license": "ISC",
+  "homepage": "https://github.com/OscarGutierrezT/fmetp-stream-server#readme",
+  "dependencies":{
+    "express": "^4.16.1"
+  }
+
+}
